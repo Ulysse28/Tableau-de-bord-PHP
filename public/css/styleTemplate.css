@@ -1,0 +1,38 @@
+/* Style template page*/
+
+nav {
+  background-color: rgb(30, 30, 117);
+  border-radius: 10px;
+}
+
+nav {
+  height: 30px;
+}
+
+nav > ul {
+  width: 35%;
+  margin: auto;
+}
+
+nav > ul > li {
+  line-height: 30px;
+  display: inline;
+  margin-right: 15px;
+  color: white;
+}
+
+li > a {
+  color: white;
+  text-decoration: none;
+}
+
+body {
+  margin: 0;
+  background: black;
+  color: white;
+}
+
+h1 {
+  text-align: center;
+}
+

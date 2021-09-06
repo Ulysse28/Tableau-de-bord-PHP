@@ -1,0 +1,54 @@
+/*budgetView*/
+
+h2 {
+  text-align: center;
+}
+
+#bigBox {
+  display: flex;
+}
+
+#divForm {
+  width: 50%;
+}
+
+form {
+  margin-top: 50px;
+  border: 1px solid white;
+  width: 350px;
+  height: 200px;
+  padding: 10px;
+}
+
+#labelOldAmount {
+  line-height: 5;
+}
+
+#btnValider {
+  margin-top: 50px;
+}
+
+.element {
+  margin-bottom: 25px;
+}
+
+#container {
+  border: 1px solid white;
+  margin: auto;
+  margin-top: 50px;
+  width: 350px;
+  height: 200px;
+  padding: 10px;
+}
+
+input {
+  margin-bottom: 10px;
+}
+
+select {
+  margin-bottom: 10px;
+}
+
+h3{
+  margin:0;
+}
